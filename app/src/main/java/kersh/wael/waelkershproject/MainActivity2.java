@@ -15,5 +15,6 @@ public class MainActivity2 extends AppCompatActivity {
         setContentView(R.layout.activity_main2);
         etEmail=findViewById(R.id.etEmail);
         etFistName=findViewById(R.id.etFirstName);
+        //////hkjshvjkshfasjkfjkashfkjashk
     }
 }
