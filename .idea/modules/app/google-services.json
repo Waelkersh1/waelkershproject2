@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "736796133961",
+    "firebase_url": "https://waelkershproject2.firebaseio.com",
+    "project_id": "waelkershproject2",
+    "storage_bucket": "waelkershproject2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736796133961:android:ff12f93235679647924d98",
+        "android_client_info": {
+          "package_name": "kersh.wael.waelkershproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736796133961-nhciu2v24akb4aq4s3hetn9gn621utan.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kersh.wael.waelkershproject",
+            "certificate_hash": "7379726b4d11e932daf0581a6840cec4f491cd16"
+          }
+        },
+        {
+          "client_id": "736796133961-6ohu74fg7n5hfaikkjc89gd5voekgsk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf8YTjeVdyN40CZolrFslR0wTKqp91Ggs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736796133961-6ohu74fg7n5hfaikkjc89gd5voekgsk9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
