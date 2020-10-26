@@ -51,7 +51,7 @@
                 android:id="@+id/etPassword2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="Re Password" />
+                android:hint="RePassword" />
 
             <Button
                 android:id="@+id/btnSave"
